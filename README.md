@@ -15,7 +15,7 @@ Automatically saves your library to a file (library.txt) so no data is lost!
 
 Run the script, and you’ll see a menu with options:
 
-Welcome to the Wasay Library Manager  
+Welcome to the Arisha Library Manager  
 1. Add a book  
 2. Remove a book  
 3. Search the library  
